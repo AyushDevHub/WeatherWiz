@@ -4,6 +4,10 @@
 
 This is a simple weather application that allows users to search for weather conditions in different cities. It displays current temperature, humidity, and wind speed, along with a weather icon representing the weather condition.
 
+## Demo
+
+https://ayushdevhub.github.io/WeatherWiz/
+
 ## Features
 
 - **City Search**: Users can enter the name of a city to get weather information.
